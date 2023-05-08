@@ -59,5 +59,5 @@ html_theme = 'insegel'
 
 html_baseurl = 'nvdlib.com'
 
-#master_doc = "index"
+master_doc = "docs/index"
 html_logo = "_static/logo_small.png"
